@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calcetto</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">Accedi</string>
+    <string name="action_log_in_short">Accedi</string>
+    <string name="lost_password"><u>Password dimenticata?</u></string>
+    <string name="action_sign_in"><u>Registrati</u></string>
+    <string name="button_sign_in">Registrati</string>
+    <string name="action_send">Invia</string>
+    <string name="error_invalid_email">Questo indirizzo email non è valido</string>
+    <string name="error_invalid_password">Questa password è troppo corta</string>
+    <string name="error_incorrect_password">Questa password non è corretta</string>
+    <string name="error_field_required">Questo campo è obbligatorio</string>
+    <string name="text_lost_password">Recupero password dimenticata</string>
+    <string name="sign_in">Registrazione</string>
+    <string name="prompt_name">Nome</string>
+    <string name="utente">Utente</string>
+    <string name="gestore">Gestore</string>
+    <string name="error_incorrect_credentials">Username o password non corrette</string>
+    <string name="error_duplicate_username">Username esistente</string>
+</resources>
